@@ -1,0 +1,8 @@
+{
+  "name": "Arduino Water Tank Controller",
+  "description": "Interactive configuration, simulation, and custom C++ code generation for dual-tank Arduino water level management systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
